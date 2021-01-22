@@ -69,8 +69,3 @@ function megaFriend(friendsNames) {
     }
     return largest;
 }
-
-
-
-var result = megaFriend(friendsNames);
-console.log(result);
